@@ -32,7 +32,7 @@ global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'LAKA OFFICIAL '
 global.author = 'LAKA'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🖐️','😊','😁']
+global.prefa = ['','!','.','🖐️','😊','❤️']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
